@@ -2,6 +2,6 @@
 
 ---
 
-[배포주소] ()
+[배포주소] (https://jiwoo8830.github.io/Background/)
 
 ---
